@@ -1,3 +1,4 @@
+tourney_year_id,tourney_order,tourney_slug,tourney_url_suffix,tourney_round_name,round_order,match_order,winner_name,winner_player_id,winner_slug,loser_name,loser_player_id,loser_slug,winner_seed,loser_seed,match_score_tiebreaks,winner_sets_won,loser_sets_won,winner_games_won,loser_games_won,winner_tiebreaks_won,loser_tiebreaks_won,match_id,match_stats_url_suffix
 1877-540,1,wimbledon,/en/scores/archive/wimbledon/540/1877/results,Finals,1,1,Spencer Gore,gi91,spencer-gore,William Marshall,mu62,william-marshall,,,61 62 64,3,0,18,7,0,0,1877-540-gi91-mu62,
 1877-540,1,wimbledon,/en/scores/archive/wimbledon/540/1877/results,Semi-Finals,2,1,Spencer Gore,gi91,spencer-gore,C. Heathcote,hg42,c-heathcote,,,62 65 62,3,0,18,9,0,0,1877-540-gi91-hg42,
 1877-540,1,wimbledon,/en/scores/archive/wimbledon/540/1877/results,Quarter-Finals,3,1,Spencer Gore,gi91,spencer-gore,F. Langham,lh23,f-langham,,,63 62 56 61,3,1,23,12,0,0,1877-540-gi91-lh23,
