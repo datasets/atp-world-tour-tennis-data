@@ -1,4 +1,4 @@
-This dataset contains tennis data from the [ATP World Tour](http://www.atpworldtour.com/) website. The data is updated annually in October. Note that if the site layout is subsequently redesigned, then these scripts will no longer work.
+This dataset contains tennis data from the [ATP World Tour](http://www.atpworldtour.com/) website. The data is updated annually in October. The data contains ATP tournaments, match scores, match stats, rankings and players overview. The latest available data is for 2017.
 
 The dataset has 53 CSV files:
 
