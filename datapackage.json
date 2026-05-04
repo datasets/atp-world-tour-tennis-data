@@ -159,7 +159,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour tournament records from 1877 to 2017, including tournament name, location, surface, draw sizes, dates, financial commitment, and singles and doubles winners."
     },
     {
       "path": "csv/2_match_scores/match_scores_1877-1967_UNINDEXED.csv",
@@ -298,7 +299,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles match scores for 1877-1967, including tournament details, round, player names, match score with tiebreaks, and sets/games won by each player."
     },
     {
       "path": "csv/2_match_scores/match_scores_1968-1990_UNINDEXED.csv",
@@ -437,7 +439,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles match scores for 1968-1990, including tournament details, round, player names, match score with tiebreaks, and sets/games won by each player."
     },
     {
       "path": "csv/2_match_scores/match_scores_1991-2016_UNINDEXED.csv",
@@ -576,7 +579,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles match scores for 1991-2016, including tournament details, round, player names, match score with tiebreaks, and sets/games won by each player."
     },
     {
       "path": "csv/2_match_scores/match_scores_2017_UNINDEXED.csv",
@@ -715,7 +719,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles match scores for 2017, including tournament details, round, player names, match score with tiebreaks, and sets/games won by each player."
     },
     {
       "path": "csv/3_match_stats/match_stats_1991-2016_UNINDEXED.csv",
@@ -999,7 +1004,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles match statistics for 1991-2016, including serve and return performance metrics (aces, double faults, first-serve percentage, break points) for both winner and loser."
     },
     {
       "path": "csv/3_match_stats/match_stats_2017_UNINDEXED.csv",
@@ -1283,7 +1289,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles match statistics for 2017, including serve and return performance metrics (aces, double faults, first-serve percentage, break points) for both winner and loser."
     },
     {
       "path": "csv/4_rankings/rankings_1973.csv",
@@ -1372,7 +1379,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1973, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1974.csv",
@@ -1461,7 +1469,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1974, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1975.csv",
@@ -1550,7 +1559,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1975, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1976.csv",
@@ -1639,7 +1649,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1976, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1977.csv",
@@ -1728,7 +1739,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1977, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1978.csv",
@@ -1817,7 +1829,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1978, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1979.csv",
@@ -1906,7 +1919,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1979, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1980.csv",
@@ -1995,7 +2009,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1980, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1981.csv",
@@ -2084,7 +2099,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1981, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1982.csv",
@@ -2173,7 +2189,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1982, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1983.csv",
@@ -2262,7 +2279,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1983, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1984.csv",
@@ -2351,7 +2369,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1984, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1985.csv",
@@ -2440,7 +2459,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1985, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1986.csv",
@@ -2529,7 +2549,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1986, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1987.csv",
@@ -2618,7 +2639,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1987, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1988.csv",
@@ -2707,7 +2729,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1988, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1989.csv",
@@ -2796,7 +2819,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1989, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1990.csv",
@@ -2885,7 +2909,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1990, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1991.csv",
@@ -2974,7 +2999,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1991, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1992.csv",
@@ -3063,7 +3089,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1992, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1993.csv",
@@ -3152,7 +3179,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1993, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1994.csv",
@@ -3241,7 +3269,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1994, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1995.csv",
@@ -3330,7 +3359,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1995, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1996.csv",
@@ -3419,7 +3449,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1996, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1997.csv",
@@ -3508,7 +3539,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1997, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1998.csv",
@@ -3597,7 +3629,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1998, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_1999.csv",
@@ -3686,7 +3719,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 1999, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2000.csv",
@@ -3775,7 +3809,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2000, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2001.csv",
@@ -3864,7 +3899,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2001, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2002.csv",
@@ -3953,7 +3989,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2002, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2003.csv",
@@ -4042,7 +4079,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2003, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2004.csv",
@@ -4131,7 +4169,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2004, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2005.csv",
@@ -4220,7 +4259,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2005, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2006.csv",
@@ -4309,7 +4349,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2006, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2007.csv",
@@ -4398,7 +4439,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2007, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2008.csv",
@@ -4487,7 +4529,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2008, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2009.csv",
@@ -4576,7 +4619,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2009, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2010.csv",
@@ -4665,7 +4709,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2010, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2011.csv",
@@ -4754,7 +4799,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2011, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2012.csv",
@@ -4843,7 +4889,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2012, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2013.csv",
@@ -4932,7 +4979,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2013, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2014.csv",
@@ -5021,7 +5069,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2014, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2015.csv",
@@ -5110,7 +5159,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2015, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2016.csv",
@@ -5199,7 +5249,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2016, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/4_rankings/rankings_2017.csv",
@@ -5288,7 +5339,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour singles player rankings for 2017, including weekly rank, ranking points, tournaments played, player name, and age."
     },
     {
       "path": "csv/5_players/player_overviews_UNINDEXED.csv",
@@ -5407,10 +5459,11 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "ATP World Tour player profile data including player ID, name, nationality, birthdate, physical attributes (height, weight), handedness, and career start year."
     }
   ],
-  "readme": "This dataset contains tennis data from the [ATP World Tour](http://www.atpworldtour.com/) website. The data is updated annually in October. Note that if the site layout is subsequently redesigned, then these scripts will no longer work.\n\nThe dataset has 53 CSV files:\n\n```bash\n├── 1_tournaments\n│   └── tournaments_1877-2017_UNINDEXED.csv\n├── 2_match_scores\n│   ├── match_scores_1877-1967_UNINDEXED.csv\n│   ├── match_scores_1968-1990_UNINDEXED.csv\n│   ├── match_scores_1991-2016_UNINDEXED.csv\n│   └── match_scores_2017_UNINDEXED.csv\n├── 3_match_stats\n│   ├── match_stats_1991-2016_UNINDEXED.csv\n│   └── match_stats_2017_UNINDEXED.csv\n├── 4_rankings\n│   ├── rankings_1973.csv\n│   ├── rankings_1974.csv\n│   ├── rankings_1975.csv\n│   ├── rankings_1976.csv\n│   ├── rankings_1977.csv\n│   ├── rankings_1978.csv\n│   ├── rankings_1979.csv\n│   ├── rankings_1980.csv\n│   ├── rankings_1981.csv\n│   ├── rankings_1982.csv\n│   ├── rankings_1983.csv\n│   ├── rankings_1984.csv\n│   ├── rankings_1985.csv\n│   ├── rankings_1986.csv\n│   ├── rankings_1987.csv\n│   ├── rankings_1988.csv\n│   ├── rankings_1989.csv\n│   ├── rankings_1990.csv\n│   ├── rankings_1991.csv\n│   ├── rankings_1992.csv\n│   ├── rankings_1993.csv\n│   ├── rankings_1994.csv\n│   ├── rankings_1995.csv\n│   ├── rankings_1996.csv\n│   ├── rankings_1997.csv\n│   ├── rankings_1998.csv\n│   ├── rankings_1999.csv\n│   ├── rankings_2000.csv\n│   ├── rankings_2001.csv\n│   ├── rankings_2002.csv\n│   ├── rankings_2003.csv\n│   ├── rankings_2004.csv\n│   ├── rankings_2005.csv\n│   ├── rankings_2006.csv\n│   ├── rankings_2007.csv\n│   ├── rankings_2008.csv\n│   ├── rankings_2009.csv\n│   ├── rankings_2010.csv\n│   ├── rankings_2011.csv\n│   ├── rankings_2012.csv\n│   ├── rankings_2013.csv\n│   ├── rankings_2014.csv\n│   ├── rankings_2015.csv\n│   ├── rankings_2016.csv\n│   └── rankings_2017.csv\n└── 5_players\n    └── player_overviews_UNINDEXED.csv\n```\n\n## Source\n\nOriginal source: https://github.com/serve-and-volley/atp-world-tour-tennis-data\nOur fork: https://github.com/anuveyatsu/atp-world-tour-tennis-data\n\n## License\n\n<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.\n",
+  "readme": "This dataset contains tennis data from the [ATP World Tour](http://www.atpworldtour.com/) website. The data is updated annually in October. Note that if the site layout is subsequently redesigned, then these scripts will no longer work.\n\nThe dataset has 53 CSV files:\n\n```bash\n\u251c\u2500\u2500 1_tournaments\n\u2502\u00a0\u00a0 \u2514\u2500\u2500 tournaments_1877-2017_UNINDEXED.csv\n\u251c\u2500\u2500 2_match_scores\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 match_scores_1877-1967_UNINDEXED.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 match_scores_1968-1990_UNINDEXED.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 match_scores_1991-2016_UNINDEXED.csv\n\u2502\u00a0\u00a0 \u2514\u2500\u2500 match_scores_2017_UNINDEXED.csv\n\u251c\u2500\u2500 3_match_stats\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 match_stats_1991-2016_UNINDEXED.csv\n\u2502\u00a0\u00a0 \u2514\u2500\u2500 match_stats_2017_UNINDEXED.csv\n\u251c\u2500\u2500 4_rankings\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1973.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1974.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1975.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1976.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1977.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1978.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1979.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1980.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1981.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1982.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1983.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1984.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1985.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1986.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1987.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1988.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1989.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1990.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1991.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1992.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1993.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1994.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1995.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1996.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1997.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1998.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_1999.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2000.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2001.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2002.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2003.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2004.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2005.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2006.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2007.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2008.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2009.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2010.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2011.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2012.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2013.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2014.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2015.csv\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 rankings_2016.csv\n\u2502\u00a0\u00a0 \u2514\u2500\u2500 rankings_2017.csv\n\u2514\u2500\u2500 5_players\n    \u2514\u2500\u2500 player_overviews_UNINDEXED.csv\n```\n\n## Source\n\nOriginal source: https://github.com/serve-and-volley/atp-world-tour-tennis-data\nOur fork: https://github.com/anuveyatsu/atp-world-tour-tennis-data\n\n## License\n\n<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by/4.0/88x31.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.\n",
   "description": "This dataset contains tennis data from the [ATP World Tour](http://www.atpworldtour.com/) website. The data is updated annually in October. The data contains ATP tournaments, match scores, match stats, rankings and players overview. The latest available data is for 2017.",
   "licenses": [
     {
