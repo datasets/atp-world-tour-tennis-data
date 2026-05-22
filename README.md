@@ -1,6 +1,6 @@
 <a className="gh-badge" href="https://datahub.io/core/atp-world-tour-tennis-data"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
-This dataset contains tennis data from the [ATP World Tour](http://www.atpworldtour.com/) website. The data is updated annually in October. The data contains ATP tournaments, match scores, match stats, rankings and players overview. The latest available data is for 2017.
+This dataset contains tennis data from the [ATP World Tour](https://www.atptour.com/) website. The data is updated annually in October. The data contains ATP tournaments, match scores, match stats, rankings and players overview. The latest available data is for 2017.
 
 The dataset has 53 CSV files:
 
@@ -68,7 +68,7 @@ The dataset has 53 CSV files:
 ## Source
 
 Original source: https://github.com/serve-and-volley/atp-world-tour-tennis-data
-Our fork: https://github.com/anuveyatsu/atp-world-tour-tennis-data
+Our fork: https://github.com/datasets/atp-world-tour-tennis-data
 
 ## License
 
