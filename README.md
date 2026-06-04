@@ -67,8 +67,11 @@ The dataset has 53 CSV files:
 
 ## Source
 
-Original source: https://github.com/serve-and-volley/atp-world-tour-tennis-data
-Our fork: https://github.com/anuveyatsu/atp-world-tour-tennis-data
+Data scraped from: https://www.atpworldtour.com/
+
+Scraping scripts: https://github.com/serve-and-volley/atp-world-tour-tennis-data
+
+Note: if the ATP website layout is redesigned, the scraping scripts will no longer work.
 
 ## License
 
